@@ -74,9 +74,23 @@
               "icon": "lucide-file",
               "title": "2026-07-01-Draw Call"
             }
+          },
+          {
+            "id": "5ee065e23a7fa35b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-08-02-Encode and Decode Strings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-02-Encode and Decode Strings"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -238,8 +252,11 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "b922b36403595a44",
+  "active": "5ee065e23a7fa35b",
   "lastOpenFiles": [
+    "2026-06-07-Products of Array Except Self.md",
+    "2026-06-07-My First Post.md",
+    "2026-08-02-Encode and Decode Strings.md",
     "2026-07-01-DrawCall.md",
     "2026-07-01-Draw Call.md",
     "새 텍스트 문서.txt",
@@ -254,9 +271,7 @@
     "img/Pasted image 20260705223536.png",
     "Pasted image 20260705223536.png",
     "img/Pasted image 20260705223432.png",
-    "2026-06-07-My First Post.md",
     "img",
-    "새 폴더",
-    "2026-06-07-Products of Array Except Self.md"
+    "새 폴더"
   ]
 }
